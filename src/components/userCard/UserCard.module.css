@@ -1,0 +1,30 @@
+.card {
+  padding: 2rem;
+  /* box-shadow: 5px 5px 10px rgb(180, 190, 194); */
+  border: 1px solid rgb(26, 25, 25);
+  /* border-radius: 5px;
+  background-color: rgb(255, 254, 250); */
+}
+
+.title {
+  /* text-transform: uppercase; */
+  font-size: 3rem;
+  font-weight:normal;
+  margin-bottom: 0.2em;
+}
+
+.subtitle {
+  letter-spsacing: 5px;
+}
+
+
+.card-text {
+  color: gray;
+  line-height: 1.5;
+  letter-spacing: 2px;
+}
+
+
+.image {
+  background-color: #ff1;
+}

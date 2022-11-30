@@ -1,0 +1,27 @@
+.btn {
+  border: none;
+  padding: 0.8em 1.6em;
+  background-color: gray;
+  color: #fff;
+  border-radius: 25px;
+  transition: all 0.3s ease-out;
+  font-size: 1rem;
+  letter-spacing: 2px;
+}
+
+.btn:hover {
+  background-color: #333;
+}
+
+.large {
+  font-size: 2rem;
+  border-radius: 50px;
+}
+
+.small {
+  font-size: 0.6em;
+}
+
+.secondary {
+  background-color: coral;
+}
